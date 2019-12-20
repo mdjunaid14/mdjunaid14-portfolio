@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cb68675.chunk.css",
+    "main.js": "/static/js/main.d2898d24.chunk.js",
+    "main.js.map": "/static/js/main.d2898d24.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88d4f3f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88d4f3f8.js.map",
+    "static/js/2.6363bd47.chunk.js": "/static/js/2.6363bd47.chunk.js",
+    "static/js/2.6363bd47.chunk.js.map": "/static/js/2.6363bd47.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.532c00856ecbdcc186cdc35f2264da4c.js": "/precache-manifest.532c00856ecbdcc186cdc35f2264da4c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6cb68675.chunk.css.map": "/static/css/main.6cb68675.chunk.css.map",
+    "static/js/2.6363bd47.chunk.js.LICENSE": "/static/js/2.6363bd47.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/Income-Tax_Calculator_screenshot.1d66eb63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88d4f3f8.js",
+    "static/js/2.6363bd47.chunk.js",
+    "static/css/main.6cb68675.chunk.css",
+    "static/js/main.d2898d24.chunk.js"
+  ]
+}
